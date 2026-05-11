@@ -1,0 +1,32 @@
+#slider{
+    min-height: 80vh;
+}
+
+#img1{
+    max-width: 500px;
+    width: 100%;
+}
+
+#slider h1{
+    font-size: 4rem;
+}
+
+#slider p{
+    font-size: 1.1rem;
+    max-width: 500px;
+}
+
+#botao-and{
+    background: black;
+    padding: 13px 35px;
+    color: white;
+    border-radius: 8px;
+
+}
+
+#botao-and:hover{
+    border:none;
+    background: white;
+    color: black;
+}
+
